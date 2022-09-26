@@ -12,6 +12,6 @@ package fernando;
 public class EJEMPLOGIT {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("FERNANDO");
     }
 }
