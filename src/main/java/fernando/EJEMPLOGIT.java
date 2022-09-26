@@ -13,5 +13,10 @@ public class EJEMPLOGIT {
 
     public static void main(String[] args) {
         System.out.println("FERNANDO");
+        int a = 10;
+        int b = 20;
+        boolean aMayorB = a>=b;
+        
+        System.out.println(aMayorB);
     }
 }
